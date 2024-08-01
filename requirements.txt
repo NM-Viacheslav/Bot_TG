@@ -1,0 +1,6 @@
+python-telegram-bot==21.4
+requests
+spotipy
+python-dotenv
+urllib3
+six
